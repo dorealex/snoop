@@ -32,11 +32,11 @@ https://github.com/KonradIT seems to have figured out the tough parts
 - Make web app for results w/ map and sample pics
 - Automate running the model
 - Putting all this stuff on a boat
--   Making the boat autonomous
--   Running the model on the raspi (external TPU?)
+  - Making the boat autonomous
+  - Running the model on the raspi (external TPU?)
 - More AI:
--   Can we predict where the weed will be?
--   Add features to current model to factor in variables such as the current weather conditions, etc.
+  - Can we predict where the weed will be?
+  - Add features to current model to factor in variables such as the current weather conditions, etc.
 - Propulsion
 - Automated navigation
 # Done
