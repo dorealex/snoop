@@ -40,8 +40,8 @@ https://github.com/KonradIT seems to have figured out the tough parts
 - Propulsion
 - Automated navigation
 # Done
--Train AI model using MS Lobe
--Long range command and control
+- Train AI model using MS Lobe
+- Long range command and control
 
 # TODO
 - clean up this mess 
